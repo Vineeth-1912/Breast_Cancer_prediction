@@ -5,7 +5,7 @@ This project is a machine learning-based breast cancer prediction system that us
 
 ## Project Structure:
 
-- **Introduction and Import Libraries: Essential Python libraries are imported for data analysis and machine learning .
+- **Introduction and Import Libraries:** Essential Python libraries are imported for data analysis and machine learning .
 - **Download dataset directly from Kaggle:** Download Breast Cancer Wisconsin (Diagnostic) Data Set directly from Kaggle [2].
 - **Data Reading and Exploratory Data Analysis:** The dataset is loaded and explored to understand its characteristics [4].
 - **Data Preprocessing:** Data is preprocessed, including splitting it into training and testing sets, and scaling [4]. Perform LabelEncoding - Encode The 'diagnosis' Column Or Categorical Data Values [1].
